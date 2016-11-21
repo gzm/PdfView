@@ -1,0 +1,12 @@
+c:\users\pc\documents\visual studio 2013\Projects\PdfGörüntüleme\PdfGörüntüleme\bin\PdfGörüntüleme.dll.config
+c:\users\pc\documents\visual studio 2013\Projects\PdfGörüntüleme\PdfGörüntüleme\bin\PdfGörüntüleme.dll
+c:\users\pc\documents\visual studio 2013\Projects\PdfGörüntüleme\PdfGörüntüleme\bin\PdfGörüntüleme.pdb
+c:\users\pc\documents\visual studio 2013\Projects\PdfGörüntüleme\PdfGörüntüleme\obj\Debug\PdfGörüntüleme.dll
+c:\users\pc\documents\visual studio 2013\Projects\PdfGörüntüleme\PdfGörüntüleme\obj\Debug\PdfGörüntüleme.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\PdfGörüntüleme\PdfGörüntüleme\obj\Debug\PdfGörüntüleme.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\my projects\staj-secube\PdfGörüntüleme\PdfGörüntüleme\bin\PdfGörüntüleme.dll.config
+C:\Users\Dell\Desktop\my projects\staj-secube\PdfGörüntüleme\PdfGörüntüleme\bin\PdfGörüntüleme.dll
+C:\Users\Dell\Desktop\my projects\staj-secube\PdfGörüntüleme\PdfGörüntüleme\bin\PdfGörüntüleme.pdb
+C:\Users\Dell\Desktop\my projects\staj-secube\PdfGörüntüleme\PdfGörüntüleme\obj\Debug\PdfGörüntüleme.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\my projects\staj-secube\PdfGörüntüleme\PdfGörüntüleme\obj\Debug\PdfGörüntüleme.dll
+C:\Users\Dell\Desktop\my projects\staj-secube\PdfGörüntüleme\PdfGörüntüleme\obj\Debug\PdfGörüntüleme.pdb
